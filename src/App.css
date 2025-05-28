@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.QKkvk {
+  margin: 0;
+  padding: 0 0 0 20px;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: #333333;
+  font-family: graphik, helvetica, sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.15px;
+  background-color: unset;
+  width: 100%;
+  border: 0;
+  box-sizing: border-box;
+}
