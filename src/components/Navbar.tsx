@@ -20,7 +20,7 @@ export default function Navbar() {
       <div className="w-full flex items-center gap-6 pt-3 pb-1 px-8 max-w-7xl mx-auto">
         {/* Faire Logo flush left */}
         <div className="flex-shrink-0 ml-[6px]">
-          <img src="/src/assets/logo.svg" alt="Faire Logo" className="w-[90px] h-8" />
+          <img src="/logo.svg" alt="Faire Logo" className="w-[90px] h-8" />
         </div>
         {/* Search Bar: grows to fill all space between logo and EN-US */}
         <div className="flex-1 flex items-center">
